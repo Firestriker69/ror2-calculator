@@ -1,0 +1,27 @@
+body {
+  background-color: #1a1a1d;
+  font-family: sans-serif;
+  margin: 0;
+  padding: 1em;
+}
+
+h1 {
+  color: #e0d3b8
+}
+#item-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em;
+}
+
+.item-card {
+  background-color: #2c2c3a;
+  padding: 1em;
+  border-radius: 8px;
+  width: 250px;
+}
+
+.item-card h2 {
+  font-size: 1.2em;
+  margin-top: 0;
+}

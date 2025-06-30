@@ -1,0 +1,23 @@
+[
+  {
+    "id": "armor_piercing_rounds",
+    "name": "Armor-Piercing Rounds",
+    "rarity": "common",
+    "description": "Deal an additional 20% damage (+20% per stack) to bosses.",
+    "icon": "armor_piercing_rounds.png",
+    "stats": [
+      { "type": "Damage", "base": 20, "scaling": "linear" }
+    ]
+  },
+  {
+    "id": "bolstering_lantern",
+    "name": "Bolstering Lantern",
+    "rarity": "uncommon",
+    "description": "Increase your attack speed by 7.5% for up to 10s to nearby allies and enemies.",
+    "icon": "bolstering_lantern.png",
+    "stats": [
+      { "type": "Max Buff", "base": 2, "scaling": "linear" },
+      { "type": "Radius", "base": 2.5, "scaling": "hyperbolic" }
+    ]
+  }
+]
