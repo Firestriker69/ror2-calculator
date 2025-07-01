@@ -6,7 +6,7 @@ A web-based calculator for **Risk of Rain 2** that helps you visualize the stack
 
 ## Features
 
-Nothing yet... I just started this today, so...
+Nothing yet... I just started this today, so... (Doesn't work, I'll fix it tomorrow)
 
 ## Upcoming Features
 
